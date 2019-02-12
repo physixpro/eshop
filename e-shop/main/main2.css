@@ -355,7 +355,7 @@ section.end img {
 
 /*last big paragraph below game cd case image*/
 section.paragraph {
-  height: 68vh;
+  height: 100vh;
   background-color: white;
   padding-left: 6em;
   padding-top: 8em;
@@ -368,19 +368,19 @@ section.paragraph h1 {
 }
 
 section.paragraph p {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
 }
 
 /*Mature ESRB 5 divs*/
 section.finishingup {
-  height: 30vh;
+  height: 50vh;
   background-color: white;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (1fr)[5];
       grid-template-columns: repeat(5, 1fr);
   color: black;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   padding-right: 30em;
 }
 
@@ -395,15 +395,15 @@ section.finishingup {
   background-color: white;
   text-align: center;
   font-size: 38px;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-weight: lighter;
 }
 
 /*last image section "get the game"*/
 section.buynow {
-  height: 60vh;
+  height: 80vh;
   background-color: white;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (1fr)[2];
@@ -446,7 +446,7 @@ section.buynow {
 
 /*credits*/
 section.credits {
-  height: 30vh;
+  height: 25vh;
   background-color: #eeeded;
   display: -ms-grid;
   display: grid;
@@ -456,55 +456,5 @@ section.credits {
   font-size: 15px;
   padding-left: 2em;
   padding-top: 2em;
-}
-
-.credit-four {
-  position: relative;
-  top: 18em;
-}
-
-.credit-five {
-  position: relative;
-  top: 18em;
-}
-
-.credit-six {
-  position: relative;
-  top: 18em;
-}
-
-.credit-seven {
-  position: relative;
-  top: 18em;
-}
-
-.credit-eight {
-  position: relative;
-  top: 18em;
-}
-
-.credit-nine {
-  position: relative;
-  top: 18em;
-}
-
-.credit-ten {
-  position: relative;
-  top: 18em;
-}
-
-.credit-eleven {
-  position: relative;
-  top: 18em;
-}
-
-.credit-five {
-  position: relative;
-  top: 18em;
-}
-
-.credit-five {
-  position: relative;
-  top: 18em;
 }
 /*# sourceMappingURL=main2.css.map */
